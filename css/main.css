@@ -43,7 +43,7 @@ body {
       width: 100%; }
       body main .container-fluid .container {
         width: 73%;
-        background-color: rgba(0, 0, 0, 0.5);
+        
         margin: auto; }
     body main .intro-fluid {
       background-image: url("../images/bg-pattern-intro-desktop.svg"), linear-gradient(90deg, #ff8f70, #ff3d54);
